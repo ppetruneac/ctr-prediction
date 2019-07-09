@@ -18,7 +18,7 @@ The analysis is about building a CTR prediction model with any of the datasets:
 
 Data used in this analysis is *Avazu*. Please follow the *CTR_prediction.ipynb* file where I explored the data - light EDA and conducted machine learning modelling for CTR prediction. Used a few models, compared them and at the end provided next steps for further feature engineering.
 
-Before you run, install dependancies:
+Before you run, install dependancies (for convenience multiple packages were listed but actually not used):
 
 ```
 pip install -r requirements.txt
